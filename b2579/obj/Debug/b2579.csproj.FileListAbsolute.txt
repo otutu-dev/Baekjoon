@@ -1,0 +1,7 @@
+C:\Users\namdk\source\repos\C#-exam\b2579\bin\Debug\b2579.exe.config
+C:\Users\namdk\source\repos\C#-exam\b2579\bin\Debug\b2579.exe
+C:\Users\namdk\source\repos\C#-exam\b2579\bin\Debug\b2579.pdb
+C:\Users\namdk\source\repos\C#-exam\b2579\obj\Debug\b2579.csproj.AssemblyReference.cache
+C:\Users\namdk\source\repos\C#-exam\b2579\obj\Debug\b2579.csproj.CoreCompileInputs.cache
+C:\Users\namdk\source\repos\C#-exam\b2579\obj\Debug\b2579.exe
+C:\Users\namdk\source\repos\C#-exam\b2579\obj\Debug\b2579.pdb

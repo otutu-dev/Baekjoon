@@ -1,0 +1,7 @@
+C:\Users\namdk\source\repos\C#-exam\b2018\bin\Debug\b2018.exe.config
+C:\Users\namdk\source\repos\C#-exam\b2018\bin\Debug\b2018.exe
+C:\Users\namdk\source\repos\C#-exam\b2018\bin\Debug\b2018.pdb
+C:\Users\namdk\source\repos\C#-exam\b2018\obj\Debug\b2018.csproj.AssemblyReference.cache
+C:\Users\namdk\source\repos\C#-exam\b2018\obj\Debug\b2018.csproj.CoreCompileInputs.cache
+C:\Users\namdk\source\repos\C#-exam\b2018\obj\Debug\b2018.exe
+C:\Users\namdk\source\repos\C#-exam\b2018\obj\Debug\b2018.pdb

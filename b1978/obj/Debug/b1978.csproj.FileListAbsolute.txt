@@ -1,0 +1,7 @@
+C:\Users\namdk\source\repos\C#-exam\b1978\bin\Debug\b1978.exe.config
+C:\Users\namdk\source\repos\C#-exam\b1978\bin\Debug\b1978.exe
+C:\Users\namdk\source\repos\C#-exam\b1978\bin\Debug\b1978.pdb
+C:\Users\namdk\source\repos\C#-exam\b1978\obj\Debug\b1978.csproj.AssemblyReference.cache
+C:\Users\namdk\source\repos\C#-exam\b1978\obj\Debug\b1978.csproj.CoreCompileInputs.cache
+C:\Users\namdk\source\repos\C#-exam\b1978\obj\Debug\b1978.exe
+C:\Users\namdk\source\repos\C#-exam\b1978\obj\Debug\b1978.pdb

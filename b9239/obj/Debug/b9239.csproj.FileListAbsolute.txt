@@ -1,0 +1,7 @@
+C:\Users\namdk\source\repos\C#-exam\b9239\bin\Debug\b9239.exe.config
+C:\Users\namdk\source\repos\C#-exam\b9239\bin\Debug\b9239.exe
+C:\Users\namdk\source\repos\C#-exam\b9239\bin\Debug\b9239.pdb
+C:\Users\namdk\source\repos\C#-exam\b9239\obj\Debug\b9239.csproj.AssemblyReference.cache
+C:\Users\namdk\source\repos\C#-exam\b9239\obj\Debug\b9239.csproj.CoreCompileInputs.cache
+C:\Users\namdk\source\repos\C#-exam\b9239\obj\Debug\b9239.exe
+C:\Users\namdk\source\repos\C#-exam\b9239\obj\Debug\b9239.pdb

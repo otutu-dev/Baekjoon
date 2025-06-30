@@ -1,0 +1,7 @@
+C:\Users\namdk\source\repos\C#-exam\b2606\bin\Debug\b2606.exe.config
+C:\Users\namdk\source\repos\C#-exam\b2606\bin\Debug\b2606.exe
+C:\Users\namdk\source\repos\C#-exam\b2606\bin\Debug\b2606.pdb
+C:\Users\namdk\source\repos\C#-exam\b2606\obj\Debug\b2606.csproj.AssemblyReference.cache
+C:\Users\namdk\source\repos\C#-exam\b2606\obj\Debug\b2606.csproj.CoreCompileInputs.cache
+C:\Users\namdk\source\repos\C#-exam\b2606\obj\Debug\b2606.exe
+C:\Users\namdk\source\repos\C#-exam\b2606\obj\Debug\b2606.pdb
